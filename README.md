@@ -30,8 +30,13 @@ This tool automates that check.
 ## How to run it
 
 1. Clone the repo and install dependencies:
-
+```
+   pip install -r requirements.txt
+```
 2. Run the script:
+```
+   python reconcile.py
+```
 
 3. Open `reconciliation_report.xlsx` in the project folder.
 
